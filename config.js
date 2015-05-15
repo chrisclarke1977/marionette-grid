@@ -18,6 +18,7 @@ System.config({
     "babel": "npm:babel-core@5.4.2",
     "babel-runtime": "npm:babel-runtime@5.4.2",
     "backbone": "github:jashkenas/backbone@1.1.2",
+    "backbone-paginator/backbone-pageable": "github:backbone-paginator/backbone-pageable@1.4.8",
     "backbone.babysitter": "github:marionettejs/backbone.babysitter@0.1.6",
     "backbone.backgrid": "github:wyuenho/backgrid@0.3.5",
     "backbone.wreqr": "github:marionettejs/backbone.wreqr@1.3.2",
@@ -30,6 +31,7 @@ System.config({
     "marionette": "npm:backbone.marionette@2.4.1",
     "text": "github:systemjs/plugin-text@0.0.2",
     "underscore": "npm:underscore@1.8.2",
+    "wyuenho/backgrid": "github:wyuenho/backgrid@0.3.5",
     "github:jspm/nodelibs-process@0.1.1": {
       "process": "npm:process@0.10.1"
     },

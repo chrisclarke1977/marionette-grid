@@ -1,16 +1,15 @@
 define(["js/app/app"], function(App){
  App.module("Entities", function(Entities, App, Backbone, Marionette, $, _){
     Entities.Fruit = Backbone.Model.extend({
-      urlRoot: "results.json",
     defaults: {
         "guid": "",
         "isActive": "",
         "favoriteFruit": ""
-      },
+      }
     });
 
     Entities.FruitCollection = Backbone.Collection.extend({
-      url: "results.json",
+      url: "fruits.json",
       model: Entities.Fruit,
       comparator: "favoriteFruit"
     });

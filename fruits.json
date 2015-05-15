@@ -1,0 +1,332 @@
+[
+  {
+    "guid": "58566c32-f3d8-4ad0-9aac-a41621307c1f",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "9b0bfcec-d196-4e41-b0f1-95f145635ed3",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "f6842b08-ff0c-46df-9b45-886d213c68fe",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "f29bc61b-8469-4d18-a975-ec356c730a2f",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "fe8c89b6-14ab-4842-9404-f986c82021c7",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "bacf50b3-c8c7-490b-a896-d74381266abd",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "df5e71c0-d8ae-43f8-844e-25570088784a",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "e0bb88d6-d559-4d30-9382-e01afe3a6b0c",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "c0a4edde-8d6d-468c-bba0-10715e7bf889",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "351f862f-7130-4751-bbbd-96239c7b1c9c",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "c592b419-a326-4396-ba85-061b060134ac",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "4d5b6fc3-19fe-4382-bc96-0dde33412959",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "4e3e15b0-1f2b-4636-ad9f-034a45164492",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "81875b2e-73ce-4427-b733-1ad9c14278bf",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "41b64433-72b6-43a3-8200-77886b031b89",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "766a1bc1-88c8-445b-846b-8f756fcda694",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "953fe44d-fa8f-4a10-a40d-be2930de15f9",
+    "isActive": false,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "220ea365-6eb7-4856-988a-9f3caee7bf2e",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "dc06b513-d893-4c6a-9829-74ab3e0b346c",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "642ea286-d019-4816-9b04-8bac80845128",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "bdbb6081-03c8-4615-b093-53909683fcff",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "f63e08c5-1376-4943-bc0d-55dc0e6108bc",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "97cf4a4f-76ba-4a19-9ce3-c6c915e0d484",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "fe098461-0460-47e1-8e68-f5868842cf77",
+    "isActive": false,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "1686c0a9-3b08-48dc-a862-0fecdd182df9",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "e52373d8-0f78-42ff-a76e-41704f5f13fd",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "4880b1c5-a1af-4278-b57a-3b8f070161e8",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "11a7320b-6d9d-48e5-bba5-21f9290938fa",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "f81a100f-9667-4a38-8191-238c83bc6509",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "4304a477-75f7-4bc5-929b-c5210badd724",
+    "isActive": false,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "7fa68824-041e-4f59-ab8f-d6130055de98",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "30bc7de4-63b7-4476-a33e-4e36dfe092f3",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "7ff0e0f3-17e6-494c-97ad-b6f2dcf4be6f",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "27d258fa-b8ba-4b73-84b2-ed6fd786fe43",
+    "isActive": false,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "b64b0f03-3ada-44aa-a4bc-e32bf8971b18",
+    "isActive": false,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "9dcb691d-19b7-451c-a3b6-3f1951f83fc2",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "534a795a-29c2-4fda-867d-90a2456c2aff",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "83bcc06f-47a8-4986-8798-2d260f4af507",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "fe266317-b06d-47ca-b28b-60473bdf5790",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "9d352683-0ab3-4a18-b27b-6fcacdcb2443",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "c6c9a648-93c4-40c5-84ef-8ce07b0eec9b",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "45a52a5e-aa9b-44ea-a9d3-e11aa2db4820",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "b8bf8b34-9652-43ad-a434-9801b23363ba",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "18847dbd-87c6-4e4f-89d4-730c7d5a203c",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "28679a8a-12cc-47ff-a7c2-866c7dd9a5f9",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "184b2c0c-b827-465e-b804-a4a1d1d3df89",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "d4d80f10-8e38-45dc-8bc9-2aff7a280e7e",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "420385bc-85da-4902-9656-cb240c7b1b3e",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "600b2f22-bb31-4882-b0ec-44f939d47d55",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "4dcb046b-f68d-4a89-bcb6-b5e63f48d696",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "a07c7058-7c78-42de-b2d5-aff39f6900f4",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "816cd167-d09a-443d-9559-13ef6827f2a2",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "d3809f1d-390f-415a-909c-c4bd7fa8610a",
+    "isActive": false,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "618e0c8c-a411-4b6f-bdcc-aa5e9fc378b0",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "559119aa-166a-4ac2-8881-9d45587b0824",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "81e04ee1-7c21-410c-bbc3-fc41d6bd7e28",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "e68e0a06-7d3c-495b-8444-9ead03f1d9e8",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "6f9c328f-e01c-4307-97f2-9f59c79d20d0",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "061c81e0-5fb5-43e7-884e-3a8f7a669d0a",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "74e75d9a-bf06-4273-b963-b734d0e6d559",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "13bdef78-f594-4552-b4af-32b266fe441f",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "eb2644af-fe8a-450d-a32f-80d27d943fc0",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "3355abb9-1305-48f6-a5ba-e7e6d0acf9ea",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "33a33367-97a1-4ded-a4b6-aec603bdc134",
+    "isActive": true,
+    "favoriteFruit": "banana"
+  },
+  {
+    "guid": "7ce88a00-ee04-4482-9deb-d1511b0eddad",
+    "isActive": false,
+    "favoriteFruit": "apple"
+  },
+  {
+    "guid": "98477bcb-0f8e-4e70-9634-2b7129b86006",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  }
+]
