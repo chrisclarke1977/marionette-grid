@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "96dff838-f7ae-40b9-9c23-65b866b1893c",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "c6b7cf74-07f8-46fc-b240-de88de2ad94c",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "1f717994-95f1-412e-aa98-d553ce99518f",
+    "isActive": true,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "a7539165-5e93-42c2-befa-2d69317c03d7",
+    "isActive": false,
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "guid": "5aaaff42-70f2-4ad1-9be7-f782101b9189",
+    "isActive": true,
+    "favoriteFruit": "apple"
+  }
+]
