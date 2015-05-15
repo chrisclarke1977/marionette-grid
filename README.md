@@ -1,7 +1,10 @@
 # marionette-grid
 Attempt to use JSPM, Marionette and Backgrid
 
-# instalation 
+
+# installation 
+This operates in a node environment
+
 ```
 npm install jspm
 clone repo
